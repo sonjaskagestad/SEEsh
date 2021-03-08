@@ -1,5 +1,5 @@
 # SEEsh
-Interactive command line shell
+Interactive shell
 
 to run: type "make" then "./SEEsh" into command line 
 
